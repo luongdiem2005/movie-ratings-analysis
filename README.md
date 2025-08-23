@@ -1,4 +1,4 @@
-# movie-ratings-analysis
+# Movie Ratings Analysis
 ─ data/                 
 ─ notebooks/            
 ─ src/                  
