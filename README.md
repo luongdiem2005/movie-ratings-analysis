@@ -1,6 +1,6 @@
 # Movie Ratings Analysis
 
-**Target**
+**Target** <br>
   1. Data cleaning
   2. Statistical analysis
   3. Data visualization <br>
