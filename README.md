@@ -12,4 +12,5 @@
 **Progress**
   - P1: Setup and Load MovieLens dataset <br>
   - P2: Exploratory Data Analysis <br>
+  - P3: Data cleaning <br>
 
