@@ -15,4 +15,4 @@
   - P3: Data cleaning <br>
   - P4: Genre analysis <br>
   - P5: Top movies and insights <br>
-notebooks/p6.ipynb
+
