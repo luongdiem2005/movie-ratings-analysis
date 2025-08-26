@@ -14,4 +14,4 @@
   - P2: Exploratory Data Analysis <br>
   - P3: Data cleaning <br>
   - P4: Genre analysis <br>
-  - P5: Top Movies and Insights <br>
+  - P5: Top movies and insights <br>
