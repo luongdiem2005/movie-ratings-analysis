@@ -15,5 +15,5 @@
   - P3: Data cleaning <br>
   - P4: Genre analysis <br>
   - P5: Yearly trend <br>
-  - P6: Top movies
+  - P6: Top movies (most popular and highest ratings)
 
