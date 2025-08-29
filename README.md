@@ -16,4 +16,5 @@
   - P4: Genre analysis <br>
   - P5: Yearly trend <br>
   - P6: Top movies (most popular and highest ratings) <br>
+  - P7: Final
 
